@@ -1,0 +1,16 @@
+Dedicated_Server.txt
+[2023-01-14 12:18:12:551 INFO] Starting Server
+[2023-01-14 12:18:12:551 INFO] Version 1.19.51.01
+[2023-01-14 12:18:12:551 INFO] Session ID b7b59604-12eb-4c76-90ac-8f96fe14ddb4
+[2023-01-14 12:18:12:551 INFO] Level Name: Terlantar
+[2023-01-14 12:18:12:553 INFO] Game mode: 0 Survival
+[2023-01-14 12:18:12:553 INFO] Difficulty: 2 NORMAL
+[2023-01-14 12:18:12:585 INFO] opening worlds/Terlantar/db
+[2023-01-14 12:18:12:966 INFO] IPv4 supported, port: 1337: Used for gameplay
+[2023-01-14 12:18:12:966 INFO] IPv6 supported, port: 19133: Used for gameplay
+[2023-01-14 12:18:12:114 INFO] Server started.
+[2023-01-14 12:18:28:440 INFO] Player connected: P22DX, xuid: 2535408193172343
+[2023-01-14 12:18:31:867 INFO] Player Spawned: P22DX xuid: 2535408193172343
+[2023-01-14 12:19:22:397 INFO] Player disconnected: P22DX, xuid: 2535408193172343
+[2023-01-14 12:19:45:880 INFO] Server stop requested.
+[2023-01-14 12:19:45:912 INFO] Stopping server...
